@@ -1,3 +1,8 @@
+---
+title: Emoti OS
+nav_order: 1
+---
+
 ![Emoti OS Banner](https://i-dat.org/wp-content/blogs.dir/28/files/2017/11/Intercity_Emoti-OS_1-largex2-ffaf00faa172aaeb90342f99b47e4792.jpg)
 
 [Emoti-OS](https://emoti-os.me/) is a chatbot. It uses conversations with its users to understand the collective mood of pupils at [Plymouth School of Creative Arts (UK)](http://plymouthschoolofcreativearts.co.uk/). It is created for and with these pupils to give students a voice and a way to express how they collectively feel about important matters at the school.
